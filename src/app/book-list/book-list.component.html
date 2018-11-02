@@ -1,0 +1,28 @@
+<div class="container">
+
+<div class="row">
+  <div *ngFor="let book of booksList | paginate: { itemsPerPage: 10, currentPage: p }">
+  <div class="col s12 m6">
+      <div class="card horizontal hoverable">
+        <div class="card-image">
+          <img src="{{ book.imageUrl }}" style="height: 196px; width: 128px;">
+        </div>
+        <div class="card-stacked">
+          <div class="card-content">
+            <strong >{{ book.title}}</strong>
+            <p>{{ book.author}}</p>
+            <br/>
+            <!-- <p>{{ book.description}}</p> -->
+          </div>
+          <div class="card-action">
+            <a (click)="onDelete(book.$key)"><i class="material-icons right">delete</i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<pagination-controls class="center" (pageChange)="p = $event"></pagination-controls>
+
+</div>
