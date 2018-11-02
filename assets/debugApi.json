@@ -1,0 +1,784 @@
+{ "search": {
+"kind": "books#volumes",
+"totalItems": 2714,
+"items": [
+{
+"kind": "books#volume",
+"id": "RyGVAgAAQBAJ",
+"etag": "iWMlt/pX/RY",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/RyGVAgAAQBAJ",
+"volumeInfo": {
+"title": "One Hundred Years of Solitude",
+"authors": [
+"Gabriel Garcia Marquez"
+],
+"publisher": "Penguin UK",
+"publishedDate": "2014-03-06",
+"description": "One of the world's most famous novels, One Hundred Years of Solitude by Gabriel Garcia Marquez, winner of the Nobel Prize for Literature, blends the natural with the supernatural in one of the most magical reading experiences on earth. 'Many years later, as he faced the firing squad, Colonel Aureliano Buendia was to remember that distant afternoon when his father took him to discover ice' Gabriel Garcia Marquez's great masterpiece is the story of seven generations of the Buendia family and of Macondo, the town they have built. Though little more than a settlement surrounded by mountains, Macondo has its wars and disasters, even its wonders and its miracles. A microcosm of Columbian life, its secrets lie hidden, encoded in a book, and only Aureliano Buendia can fathom its mysteries and reveal its shrouded destiny. Blending political reality with magic realism, fantasy and comic invention, One Hundred Years of Solitude is one of the most daringly original works of the twentieth century. 'Dazzling' The New York Times",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9780241968598"
+},
+{
+"type": "ISBN_10",
+"identifier": "0241968593"
+}
+],
+"readingModes": {
+"text": true,
+"image": false
+},
+"pageCount": 432,
+"printType": "BOOK",
+"categories": [
+"Fiction"
+],
+"averageRating": 3.5,
+"ratingsCount": 200,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "1.11.9.0.preview.2",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=RyGVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=RyGVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=RyGVAgAAQBAJ&printsec=frontcover&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+"infoLink": "https://play.google.com/store/books/details?id=RyGVAgAAQBAJ&source=gbs_api",
+"canonicalVolumeLink": "https://market.android.com/details?id=book-RyGVAgAAQBAJ"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "FOR_SALE",
+"isEbook": true,
+"listPrice": {
+"amount": 1.99,
+"currencyCode": "GBP"
+},
+"retailPrice": {
+"amount": 1.99,
+"currencyCode": "GBP"
+},
+"buyLink": "https://play.google.com/store/books/details?id=RyGVAgAAQBAJ&rdid=book-RyGVAgAAQBAJ&rdot=1&source=gbs_api",
+"offers": [
+{
+"finskyOfferType": 1,
+"listPrice": {
+"amountInMicros": 1990000,
+"currencyCode": "GBP"
+},
+"retailPrice": {
+"amountInMicros": 1990000,
+"currencyCode": "GBP"
+},
+"giftable": true
+}
+]
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/One_Hundred_Years_of_Solitude-sample-epub.acsm?id=RyGVAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=RyGVAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "&#39;Many years later, as he faced the firing squad, Colonel Aureliano Buendia was to remember that distant afternoon when his father took him to discover ice&#39; Gabriel Garcia Marquez&#39;s great masterpiece is the story of seven generations of the ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "VB1APgAACAAJ",
+"etag": "0j1n4dV/Af8",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/VB1APgAACAAJ",
+"volumeInfo": {
+"title": "One Hundred Years of Solitude LP",
+"authors": [
+"Gabriel Garcia Marquez"
+],
+"publisher": "Harper",
+"publishedDate": "2004-02-20",
+"description": "Probably García Márquez’s finest and most famous work, One Hun-dred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through the history of the Buendía family. Inventive, amusing, magnetic, sad, alive with unforgettable men and women, and with a truth and understanding that strike the soul, One Hundred Years of Solitude is a masterpiece of the art of fiction. Gabriel García Márquez was born in 1928 in the town of Araca-taca, Colombia. Latin America’s preeminent man of letters, he is considered by many to be one of the greatest writers of the twentieth century. He began his writing career as a journalist and is the author of numerous works of fiction and nonfiction, including Love in the Time of Cholera, The Autumn of the Patriarch, and Collected Stories. His most recent work is a memoir, Living to Tell the Tale. García Már-quez was awarded the Nobel Prize for Literature in 1982.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0060750766"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780060750763"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 560,
+"printType": "BOOK",
+"categories": [
+"Fiction"
+],
+"averageRating": 3.5,
+"ratingsCount": 197,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=VB1APgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=VB1APgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=VB1APgAACAAJ&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=VB1APgAACAAJ&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/One_Hundred_Years_of_Solitude_LP.html?hl=&id=VB1APgAACAAJ"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=VB1APgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Probably García Márquez’s finest and most famous work, One Hun-dred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through the history of the Buendía family."
+}
+},
+{
+"kind": "books#volume",
+"id": "pgPWOaOctq8C",
+"etag": "yGdn6Qr7bQI",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/pgPWOaOctq8C",
+"volumeInfo": {
+"title": "One Hundred Years of Solitude",
+"authors": [
+"Gabriel Garcia Marquez"
+],
+"publisher": "Harper Collins",
+"publishedDate": "2003-06-24",
+"description": "One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world, and the ultimate achievement in a Nobel Prize–winning career. The novel tells the story of the rise and fall of the mythical town of Macondo through the history of the Buendía family. It is a rich and brilliant chronicle of life and death, and the tragicomedy of humankind. In the noble, ridiculous, beautiful, and tawdry story of the Buendía family, one sees all of humanity, just as in the history, myths, growth, and decay of Macondo, one sees all of Latin America. Love and lust, war and revolution, riches and poverty, youth and senility -- the variety of life, the endlessness of death, the search for peace and truth -- these universal themes dominate the novel. Whether he is describing an affair of passion or the voracity of capitalism and the corruption of government, Gabriel García Márquez always writes with the simplicity, ease, and purity that are the mark of a master. Alternately reverential and comical, One Hundred Years of Solitude weaves the political, personal, and spiritual to bring a new consciousness to storytelling. Translated into dozens of languages, this stunning work is no less than an accounting of the history of the human race.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9780060531041"
+},
+{
+"type": "ISBN_10",
+"identifier": "0060531045"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 432,
+"printType": "BOOK",
+"categories": [
+"Fiction"
+],
+"averageRating": 4,
+"ratingsCount": 200,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=pgPWOaOctq8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=pgPWOaOctq8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=pgPWOaOctq8C&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=pgPWOaOctq8C&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/One_Hundred_Years_of_Solitude.html?hl=&id=pgPWOaOctq8C"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=pgPWOaOctq8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Translated into dozens of languages, this stunning work is no less than an accounting of the history of the human race."
+}
+},
+{
+"kind": "books#volume",
+"id": "68xKOzkT3KMC",
+"etag": "Z/UVUyX9Dxw",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/68xKOzkT3KMC",
+"volumeInfo": {
+"title": "One Hundred Years of Homosexuality",
+"subtitle": "And Other Essays on Greek Love",
+"authors": [
+"David M Halperin"
+],
+"publisher": "Routledge",
+"publishedDate": "2012-07-26",
+"description": "Halperin's subject is the erotics of male culture in ancient Greece. Arguing that the modern concept of \"homosexuality\" is an inadequate tool for the interpretation of these features of sexual life in antiquity, Halperin offers an alternative account that accords greater prominence to the indigenous terms in which sexual experiences were constituted in the ancient Mediterranean world. Wittily and provocatively written, Halperin's meticulously drawn windows onto ancient sexuality give us a new meaning to the concept of \"Greek love.\"",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781136608773"
+},
+{
+"type": "ISBN_10",
+"identifier": "113660877X"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"pageCount": 244,
+"printType": "BOOK",
+"categories": [
+"History"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "2.2.2.0.preview.3",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=68xKOzkT3KMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=68xKOzkT3KMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=68xKOzkT3KMC&printsec=frontcover&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+"infoLink": "https://play.google.com/store/books/details?id=68xKOzkT3KMC&source=gbs_api",
+"canonicalVolumeLink": "https://market.android.com/details?id=book-68xKOzkT3KMC"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "FOR_SALE",
+"isEbook": true,
+"listPrice": {
+"amount": 23.99,
+"currencyCode": "GBP"
+},
+"retailPrice": {
+"amount": 16.79,
+"currencyCode": "GBP"
+},
+"buyLink": "https://play.google.com/store/books/details?id=68xKOzkT3KMC&rdid=book-68xKOzkT3KMC&rdot=1&source=gbs_api",
+"offers": [
+{
+"finskyOfferType": 1,
+"listPrice": {
+"amountInMicros": 23990000,
+"currencyCode": "GBP"
+},
+"retailPrice": {
+"amountInMicros": 16790000,
+"currencyCode": "GBP"
+},
+"giftable": true
+}
+]
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/One_Hundred_Years_of_Homosexuality-sample-epub.acsm?id=68xKOzkT3KMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/One_Hundred_Years_of_Homosexuality-sample-pdf.acsm?id=68xKOzkT3KMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=68xKOzkT3KMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Halperin&#39;s subject is the erotics of male culture in ancient Greece."
+}
+},
+{
+"kind": "books#volume",
+"id": "wHTF3YRP_zkC",
+"etag": "AHAvgBa2mlc",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/wHTF3YRP_zkC",
+"volumeInfo": {
+"title": "One Hundred Years of Violoncello",
+"subtitle": "A History of Technique and Performance Practice, 1740-1840",
+"authors": [
+"Valerie Walden"
+],
+"publisher": "Cambridge University Press",
+"publishedDate": "2004-08-19",
+"description": "The first book to address the full range of performance issues for the violoncello from the Baroque to the early Romantic period. Richly illustrated with over 300 music examples, plates and figures, this book provides playing instructions which can easily be applied by modern players to their own performance of period music.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0521607612"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780521607612"
+}
+],
+"readingModes": {
+"text": false,
+"image": true
+},
+"pageCount": 328,
+"printType": "BOOK",
+"categories": [
+"Music"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.0.1.0.preview.1",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=wHTF3YRP_zkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=wHTF3YRP_zkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=wHTF3YRP_zkC&printsec=frontcover&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=wHTF3YRP_zkC&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/One_Hundred_Years_of_Violoncello.html?hl=&id=wHTF3YRP_zkC"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=wHTF3YRP_zkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Richly illustrated with over 300 music examples, plates and figures, this book provides playing instructions which can easily be applied by modern players to their own performance of period music."
+}
+},
+{
+"kind": "books#volume",
+"id": "1JFOAQAAMAAJ",
+"etag": "C+14cJa68qc",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/1JFOAQAAMAAJ",
+"volumeInfo": {
+"title": "One Hundred Years of Brewing",
+"subtitle": "A Complete History of the Progress Made in the Art, Science and Industry of Brewing in the World, Particularly During the Nineteenth Century",
+"publishedDate": "1903",
+"industryIdentifiers": [
+{
+"type": "OTHER",
+"identifier": "UIUC:30112055065434"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 718,
+"printType": "BOOK",
+"categories": [
+"Beer"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.2.1.0.preview.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=1JFOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=1JFOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=1JFOAQAAMAAJ&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=1JFOAQAAMAAJ&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/One_Hundred_Years_of_Brewing.html?hl=&id=1JFOAQAAMAAJ"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=1JFOAQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+}
+},
+{
+"kind": "books#volume",
+"id": "h_OqzHvNKdwC",
+"etag": "B8Wwdi/xUUo",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/h_OqzHvNKdwC",
+"volumeInfo": {
+"title": "One Hundred Years of Canadian Cinema",
+"authors": [
+"George Melnyk"
+],
+"publisher": "University of Toronto Press",
+"publishedDate": "2004",
+"description": "Melnyk argues passionately that Canadian cinema has never been a singular entity, but has continued to speak in the languages and in the voices of Canada's diverse population.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0802084443"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780802084446"
+}
+],
+"readingModes": {
+"text": false,
+"image": true
+},
+"pageCount": 361,
+"printType": "BOOK",
+"categories": [
+"History"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=h_OqzHvNKdwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=h_OqzHvNKdwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=h_OqzHvNKdwC&printsec=frontcover&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=h_OqzHvNKdwC&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/One_Hundred_Years_of_Canadian_Cinema.html?hl=&id=h_OqzHvNKdwC"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=h_OqzHvNKdwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Melnyk argues passionately that Canadian cinema has never been a singular entity, but has continued to speak in the languages and in the voices of Canada&#39;s diverse population. is an excellent book that effectively and efficiently covers ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "GDaZAgAAQBAJ",
+"etag": "5jCrp5HgCmM",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/GDaZAgAAQBAJ",
+"volumeInfo": {
+"title": "The Israel-Palestine Conflict",
+"subtitle": "One Hundred Years of War",
+"authors": [
+"James L. Gelvin"
+],
+"publisher": "Cambridge University Press",
+"publishedDate": "2014-01-13",
+"description": "Now entering its third edition, James L. Gelvin's award-winning account of the conflict between Israelis and their forebears, on the one hand, and Palestinians and theirs, on the other, offers a compelling, accessible and current introduction for students and general readers. Newly updated to take into account the effects of the 2010–11 Arab uprisings on the conflict and the recognition of Palestinian statehood by the United Nations, the book traces the struggle from the emergence of nationalism among the Jews of Europe and the Arab inhabitants of Ottoman Palestine through the present, exploring the external pressures and internal logic that have propelled it. Placing events in Palestine within the framework of global history, The Israel-Palestine Conflict: One Hundred Years of War skilfully interweaves biographical sketches, eyewitness accounts, poetry, fiction, and official documentation into its narrative.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781107470774"
+},
+{
+"type": "ISBN_10",
+"identifier": "1107470773"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"pageCount": 304,
+"printType": "BOOK",
+"categories": [
+"History"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "1.3.4.0.preview.3",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=GDaZAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=GDaZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=GDaZAgAAQBAJ&printsec=frontcover&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+"infoLink": "https://play.google.com/store/books/details?id=GDaZAgAAQBAJ&source=gbs_api",
+"canonicalVolumeLink": "https://market.android.com/details?id=book-GDaZAgAAQBAJ"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "FOR_SALE",
+"isEbook": true,
+"listPrice": {
+"amount": 21.6,
+"currencyCode": "GBP"
+},
+"retailPrice": {
+"amount": 14.04,
+"currencyCode": "GBP"
+},
+"buyLink": "https://play.google.com/store/books/details?id=GDaZAgAAQBAJ&rdid=book-GDaZAgAAQBAJ&rdot=1&source=gbs_api",
+"offers": [
+{
+"finskyOfferType": 1,
+"listPrice": {
+"amountInMicros": 21600000,
+"currencyCode": "GBP"
+},
+"retailPrice": {
+"amountInMicros": 14040000,
+"currencyCode": "GBP"
+},
+"giftable": true
+}
+]
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/The_Israel_Palestine_Conflict-sample-epub.acsm?id=GDaZAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/The_Israel_Palestine_Conflict-sample-pdf.acsm?id=GDaZAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=GDaZAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Newly updated to take into account the effects of the 2010–11 Arab uprisings on the conflict and the recognition of Palestinian statehood by the United Nations, the book traces the struggle from the emergence of nationalism among the Jews ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "9gl-xT-swcUC",
+"etag": "+yX0OPfAOvc",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/9gl-xT-swcUC",
+"volumeInfo": {
+"title": "One Hundred Years of Sea Power",
+"subtitle": "The U.S. Navy, 1890-1990",
+"authors": [
+"George W. Baer"
+],
+"publisher": "Stanford University Press",
+"publishedDate": "1996-07-01",
+"description": "A navy is a state's main instrument of maritime force. What it should do, what doctrine it holds, what ships it deploys, and how it fights are determined by practical political and military choices in relation to national needs. Choices are made according to the state's goals, perceived threat, maritime opportunity, technological capabilities, practical experience, and, not the least, the way the sea service defines itself and its way of war. This book is a history of the modern U.S. Navy. It explains how the Navy, in the century after 1890, was formed and reformed in the interaction of purpose, experience, and doctrine.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0804727945"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780804727945"
+}
+],
+"readingModes": {
+"text": false,
+"image": true
+},
+"pageCount": 553,
+"printType": "BOOK",
+"categories": [
+"History"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "1.1.0.0.preview.1",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=9gl-xT-swcUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=9gl-xT-swcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=9gl-xT-swcUC&printsec=frontcover&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=9gl-xT-swcUC&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/One_Hundred_Years_of_Sea_Power.html?hl=&id=9gl-xT-swcUC"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=9gl-xT-swcUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "This book is a history of the modern U.S. Navy. It explains how the Navy, in the century after 1890, was formed and reformed in the interaction of purpose, experience, and doctrine. A fine book: meticulous, judicious, incisive."
+}
+},
+{
+"kind": "books#volume",
+"id": "NdtGNCK69WQC",
+"etag": "Med5kHhbsdg",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/NdtGNCK69WQC",
+"volumeInfo": {
+"title": "Gabriel Garci ́a Ma ́rquez's One Hundred Years of Solitude",
+"authors": [
+"Gabriel Garcia Marquez",
+"Harold Bloom"
+],
+"publisher": "Infobase Publishing",
+"publishedDate": "2009-01-01",
+"description": "Presents a collection of critical essays about Marquez's, \"One hundred years of solitude.\"",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781438125626"
+},
+{
+"type": "ISBN_10",
+"identifier": "1438125623"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"pageCount": 241,
+"printType": "BOOK",
+"averageRating": 1,
+"ratingsCount": 1,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "0.0.2.0.preview.3",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=NdtGNCK69WQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=NdtGNCK69WQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.co.uk/books?id=NdtGNCK69WQC&pg=PA25&dq=one+hundred+years&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+"infoLink": "http://books.google.co.uk/books?id=NdtGNCK69WQC&dq=one+hundred+years&hl=&as_pt=BOOKS&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Gabriel_Garci_%CC%81a_Ma_%CC%81rquez_s_One_Hundr.html?hl=&id=NdtGNCK69WQC"
+},
+"saleInfo": {
+"country": "GB",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "GB",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/Gabriel_Garci_%CC%81a_Ma_%CC%81rquez_s_One_Hundr-sample-epub.acsm?id=NdtGNCK69WQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.co.uk/books/download/Gabriel_Garci_%CC%81a_Ma_%CC%81rquez_s_One_Hundr-sample-pdf.acsm?id=NdtGNCK69WQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=NdtGNCK69WQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "... fateful exploration of the “Southern American continent,” the imaginative <br>\nFlorentine recorded such oddities as “a monstrosity of <b>an</b> animal with the head <br>\nand ears <b>of a</b> mule, the body <b>of a</b> camel, the hooves <b>of a</b> deer, and the neigh <b>of a</b> <br>\nhorse” (207). In the course of his Nobel speech, García Márquez recorded many <br>\nless imaginative but equally improbable facts—“in the past eleven <b>years</b> twenty <br>\nmillion Latin American children have died before their second birthday. Nearly <br>\n<b>one hundred</b>&nbsp;..."
+}
+}
+]
+}
+}
